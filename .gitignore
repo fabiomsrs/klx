@@ -1,0 +1,26 @@
+# Arquivos temporários
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+
+# Diretórios
+target/
+bin/
+out/
+
+# Configurações do IDE (ex: IntelliJ, Eclipse, NetBeans)
+.idea/
+.classpath
+.project
+.settings/
+
+# Arquivos de compilação
+*.iml
+*.ipr
+*.iws
+*.war
+*.ear
+*.jar
